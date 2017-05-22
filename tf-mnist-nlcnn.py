@@ -3,7 +3,7 @@
 # using Tensor Flow to solve the MNIST handwriting
 # recognition problem. 
 #
-# Seth Haney, 5/22/2017
+# Seth Haney, Ph. D. 5/22/2017
 ###############################
 
 # The following are useful shortcuts for 
