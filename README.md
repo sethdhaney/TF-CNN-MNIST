@@ -1,3 +1,4 @@
+
 ### tf-mnist-nlcnn.py #####
  This file implements a convolutional neural network 
  using Tensor Flow to solve the MNIST handwriting
